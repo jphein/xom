@@ -7,7 +7,7 @@ Testing this stack:
 
 React/Redux (create-react-app)
 
-**Siteleaf **/ Stackedit
+**Siteleaf** / Stackedit
 
 **Codeanywhere** / cloud9 (Node.js Ubuntu)
 
