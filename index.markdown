@@ -1,5 +1,5 @@
 ---
-title: index
+title: jphe.in stack
 date: 2017-09-26 14:13:00 -07:00
 ---
 
