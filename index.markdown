@@ -9,8 +9,8 @@ React/Redux (create-react-app)
 
 **Siteleaf **/ Stackedit
 
-**Codeanywhere** / cloud9
+**Codeanywhere** / cloud9 (Node.js Ubuntu)
 
-**Github Pages** / surge.sh 
+**Github Pages** / surge.sh
 
 **Cloudflare** / Netlify
