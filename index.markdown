@@ -11,6 +11,6 @@ React/Redux (create-react-app)
 
 **Codeanywhere** / cloud9
 
-**Github Pages** / surge.sh 
+**Github Pages** / surge.sh
 
 **Cloudflare** / Netlify
