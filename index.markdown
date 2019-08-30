@@ -5,12 +5,18 @@ date: 2017-09-26 14:13:00 -07:00
 
 Testing this stack:
 
-React/Redux (create-react-app)
+UI - React/Redux (create-react-app)
 
-**Siteleaf** / Stackedit
+Content - **Siteleaf** / Stackedit / prose.io
 
-Codeanywhere / **cloud9** (Node.js Ubuntu)
+IDE - Codeanywhere / **cloud9** (Node.js Ubuntu)
 
-**Github Pages** / surge.sh
+File HOST - **Github Pages** / surge.sh
 
-**Cloudflare** / Netlify
+DNS - **Cloudflare** / Netlify
+
+Com - Slack / Discord
+
+Voice - Google Assistant
+
+Integratoin - IFTTT.com
